@@ -1,0 +1,15 @@
+D:\ProjectC\C#\EventConsole\EventConsole\bin\Debug\net6.0\EventConsole.exe
+D:\ProjectC\C#\EventConsole\EventConsole\bin\Debug\net6.0\EventConsole.deps.json
+D:\ProjectC\C#\EventConsole\EventConsole\bin\Debug\net6.0\EventConsole.runtimeconfig.json
+D:\ProjectC\C#\EventConsole\EventConsole\bin\Debug\net6.0\EventConsole.dll
+D:\ProjectC\C#\EventConsole\EventConsole\bin\Debug\net6.0\EventConsole.pdb
+D:\ProjectC\C#\EventConsole\EventConsole\obj\Debug\net6.0\EventConsole.csproj.AssemblyReference.cache
+D:\ProjectC\C#\EventConsole\EventConsole\obj\Debug\net6.0\EventConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectC\C#\EventConsole\EventConsole\obj\Debug\net6.0\EventConsole.AssemblyInfoInputs.cache
+D:\ProjectC\C#\EventConsole\EventConsole\obj\Debug\net6.0\EventConsole.AssemblyInfo.cs
+D:\ProjectC\C#\EventConsole\EventConsole\obj\Debug\net6.0\EventConsole.csproj.CoreCompileInputs.cache
+D:\ProjectC\C#\EventConsole\EventConsole\obj\Debug\net6.0\EventConsole.dll
+D:\ProjectC\C#\EventConsole\EventConsole\obj\Debug\net6.0\refint\EventConsole.dll
+D:\ProjectC\C#\EventConsole\EventConsole\obj\Debug\net6.0\EventConsole.pdb
+D:\ProjectC\C#\EventConsole\EventConsole\obj\Debug\net6.0\EventConsole.genruntimeconfig.cache
+D:\ProjectC\C#\EventConsole\EventConsole\obj\Debug\net6.0\ref\EventConsole.dll
